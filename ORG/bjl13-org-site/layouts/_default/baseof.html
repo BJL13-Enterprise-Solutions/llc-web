@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {{ with .Site.Params.description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
+    <link rel="stylesheet" href="/css/brand.css" />
+    <!-- Favicon and meta tags -->
+    <link rel="icon" href="/favicon.ico" />
+  </head>
+  <body>
+    {{ partial "nav.html" . }}
+    <main>{{ block "main" . }}{{ end }}</main>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

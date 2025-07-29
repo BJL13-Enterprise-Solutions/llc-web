@@ -1,0 +1,10 @@
+{
+  "font": {
+    "family": {
+      "base": {
+        "value": "Spectral, serif",
+        "type": "fontFamily"
+      }
+    }
+  }
+}

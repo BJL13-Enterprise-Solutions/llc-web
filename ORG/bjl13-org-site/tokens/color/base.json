@@ -1,0 +1,51 @@
+{
+  "color": {
+    "base": {
+      "purple": {
+        "100": { "value": "#E5DDEB", "type": "color" },
+        "300": { "value": "#D2C4DE", "type": "color" },
+        "500": { "value": "#BDAECD", "type": "color" }, // Equity Purple
+        "700": { "value": "#9F8FB3", "type": "color" },
+        "900": { "value": "#7D6D93", "type": "color" }
+      },
+      "coral": {
+        "100": { "value": "#F8D2CE", "type": "color" },
+        "300": { "value": "#F3B2A7", "type": "color" },
+        "500": { "value": "#EA8A7C", "type": "color" }, // Liberation Coral
+        "700": { "value": "#D86D61", "type": "color" },
+        "900": { "value": "#B84C44", "type": "color" }
+      },
+      "gold": {
+        "500": { "value": "#CDA433", "type": "color" } // Accent Gold
+      },
+      "grey": {
+        "100": { "value": "#F5F5F5", "type": "color" },
+        "200": { "value": "#EEEEEE", "type": "color" },
+        "400": { "value": "#BDBDBD", "type": "color" },
+        "600": { "value": "#757575", "type": "color" },
+        "800": { "value": "#424242", "type": "color" },
+        "900": { "value": "#212121", "type": "color" }
+      },
+      "red": {
+        "400": { "value": "#EF5350", "type": "color" },
+        "600": { "value": "#E53935", "type": "color" }
+      },
+      "orange": {
+        "400": { "value": "#FFA726", "type": "color" },
+        "800": { "value": "#EF6C00", "type": "color" }
+      },
+      "green": {
+        "400": { "value": "#66BB6A", "type": "color" },
+        "600": { "value": "#43A047", "type": "color" }
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
+    }
+  }
+}

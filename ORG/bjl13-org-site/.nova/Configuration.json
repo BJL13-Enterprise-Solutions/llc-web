@@ -1,0 +1,14 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "dockerfile"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/bjl\/BJL-Apps\/BJL13%20Enterprise%20Solutions%20Sites\/llc-web\/ORG\/bjl13-org-site\/Dockerfile"
+  ],
+  "workspace.art_style" : 1,
+  "workspace.color" : 0,
+  "workspace.name" : "BJL13.org Site"
+}

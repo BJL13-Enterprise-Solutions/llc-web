@@ -1,0 +1,23 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "lighter": { "value": "{color.base.purple.100}", "type": "color" },
+        "light": { "value": "{color.base.purple.300}", "type": "color" },
+        "base": { "value": "{color.base.purple.500}", "type": "color" }, // #BDAECD
+        "dark": { "value": "{color.base.purple.700}", "type": "color" },
+        "darker": { "value": "{color.base.purple.900}", "type": "color" }
+      },
+      "secondary": {
+        "lighter": { "value": "{color.base.coral.100}", "type": "color" },
+        "light": { "value": "{color.base.coral.300}", "type": "color" },
+        "base": { "value": "{color.base.coral.500}", "type": "color" }, // #EA8A7C
+        "dark": { "value": "{color.base.coral.700}", "type": "color" },
+        "darker": { "value": "{color.base.coral.900}", "type": "color" }
+      },
+      "accent": {
+        "base": { "value": "{color.base.gold.500}", "type": "color" } // #CDA433
+      }
+    }
+  }
+}

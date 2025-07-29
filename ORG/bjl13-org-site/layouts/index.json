@@ -1,0 +1,18 @@
+{
+  "title": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "baseURL": "{{ .Site.BaseURL }}",
+  "pages": [
+	{{- $pages := .Site.RegularPages -}}
+	{{- range $i, $p := $pages -}}
+	  {{- if $i }},{{ end -}}
+	  {
+		"title": {{ printf "%q" $p.Title }},
+		"permalink": "{{ $p.Permalink }}",
+		"summary": {{ printf "%q" $p.Summary }},
+		"date": "{{ $p.Date.Format "2006-01-02" }}",
+		"tags": [{{ range $j, $tag := $p.Params.tags }}{{ if $j }}, {{ end }}"{{ $tag }}"{{ end }}]
+	  }
+	{{- end -}}
+  ]
+}

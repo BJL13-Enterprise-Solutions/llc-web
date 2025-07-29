@@ -1,0 +1,28 @@
+baseURL = "https://bjl13.org/"
+title = "BJL13 Enterprise Solutions"
+theme = "bes" # (leave blank if using layouts/ directly, or put your theme name here)
+languageCode = "en-us"
+enableRobotsTXT = true
+
+[params]
+  description = "Organizational and public benefit arm of BJL13 Enterprise Solutions. Breaking the chains of today to set tomorrow free."
+  brand = "BES"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
+
+# Uncomment below if you want pretty URLs (no .html at the end)
+ uglyURLs = false
+
+# Uncomment if you have multilingual content
+#[languages]
+#  [languages.en]
+#    languageName = "English"
+#    weight = 1
+
+# Static assets (css/js) should go in /static

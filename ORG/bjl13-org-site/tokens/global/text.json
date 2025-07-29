@@ -1,0 +1,43 @@
+{
+  "text": {
+    "fonts": {
+      "sans": { "$value": "Sora, sans-serif" },
+      "serif": { "$value": "Spectral, serif" },
+      "sc": { "$value": "'Spectral SC', serif" },
+      "mono": { "$value": "Menlo, monospace" }
+    },
+    "weights": {
+      "regular": { "$value": "400" },
+      "bold": { "$value": "700" }
+    },
+    "sizes": {
+      "heading": { "$value": "2rem" },
+      "body": { "$value": "1rem" },
+      "caption": { "$value": "0.875rem" }
+    },
+    "lineHeights": {
+      "large": { "$value": "2.5rem" },
+      "normal": { "$value": "1.5rem" }
+    },
+    "typography": {
+      "heading": {
+        "font": { "$value": "{text.fonts.sans}" },
+        "weight": { "$value": "{text.weights.bold}" },
+        "size": { "$value": "{text.sizes.heading}" },
+        "lineHeight": { "$value": "{text.lineHeights.large}" }
+      },
+      "body": {
+        "font": { "$value": "{text.fonts.serif}" },
+        "weight": { "$value": "{text.weights.regular}" },
+        "size": { "$value": "{text.sizes.body}" },
+        "lineHeight": { "$value": "{text.lineHeights.normal}" }
+      },
+      "caption": {
+        "font": { "$value": "{text.fonts.sc}" },
+        "weight": { "$value": "{text.weights.regular}" },
+        "size": { "$value": "{text.sizes.caption}" },
+        "lineHeight": { "$value": "{text.lineHeights.normal}" }
+      }
+    }
+  }
+}

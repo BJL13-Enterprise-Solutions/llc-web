@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "identifier": "hugo-serve",
+      "name": "Hugo Local Server",
+      "script": "hugo server -D --disableFastRender --bind 127.0.0.1 --port 1313",
+      "type": "shell"
+    }
+  ]
+}

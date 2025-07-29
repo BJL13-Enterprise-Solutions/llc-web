@@ -1,0 +1,249 @@
+// Do not edit directly, this file was auto-generated
+// ---- FONT IMPORTS ----
+// Self-hosted brand fonts
+@font-face {
+  font-family: "Sora";
+  src: url("/fonts/Sora-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Sora";
+  src: url("/fonts/Sora-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Spectral";
+  src: url("/fonts/Spectral-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Spectral";
+  src: url("/fonts/Spectral-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Spectral SC";
+  src: url("/fonts/SpectralSC-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+// ---- FONT VARIABLES ----
+$font-family-base: "Spectral", serif;
+$font-family-heading: "Sora", sans-serif;
+$font-family-label: "Spectral SC", serif;
+
+// ---- USAGE CLASSES ----
+body {
+  font-family: $font-family-base;
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-family-heading;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.label,
+.smallcaps,
+.caps {
+  font-family: $font-family-label;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
+$color-background-overlay-light: rgba(255, 255, 255, 0.8);
+$color-background-overlay-dark: rgba(0, 0, 0, 0.27);
+$color-base-purple-100: #e5ddeb;
+$color-base-purple-300: #d2c4de;
+$color-base-purple-500: #bdaecd;
+$color-base-purple-700: #9f8fb3;
+$color-base-purple-900: #7d6d93;
+$color-base-coral-100: #f8d2ce;
+$color-base-coral-300: #f3b2a7;
+$color-base-coral-500: #ea8a7c;
+$color-base-coral-700: #d86d61;
+$color-base-coral-900: #b84c44;
+$color-base-gold-500: #cda433;
+$color-base-grey-100: #f5f5f5;
+$color-base-grey-200: #eeeeee;
+$color-base-grey-400: #bdbdbd;
+$color-base-grey-600: #757575;
+$color-base-grey-800: #424242;
+$color-base-grey-900: #212121;
+$color-base-red-400: #ef5350;
+$color-base-red-600: #e53935;
+$color-base-orange-400: #ffa726;
+$color-base-orange-800: #ef6c00;
+$color-base-green-400: #66bb6a;
+$color-base-green-600: #43a047;
+$color-base-black: #000000;
+$color-base-white: #ffffff;
+$color-chart-overlay-transparent: rgba(255, 255, 255, 0.4);
+$color-chart-overlay-dim: rgba(0, 0, 0, 0.6);
+$color-gradient-brand: linear-gradient(90deg, #bdaecd 0%, #ea8a7c 100%);
+$color-gradient-brand-vertical: linear-gradient(
+  180deg,
+  #bdaecd 0%,
+  #ea8a7c 100%
+);
+$color-gradient-brand-rtl: linear-gradient(270deg, #bdaecd 0%, #ea8a7c 100%);
+$color-gradient-brand-soft: linear-gradient(
+  90deg,
+  #bdaecd66 0%,
+  #ea8a7c66 100%
+);
+$color-gradient-brand-ramp: linear-gradient(45deg, #bdaecd, #cda433, #ea8a7c);
+$color-gradient-callout-primary: linear-gradient(
+  135deg,
+  #bdaecd 20%,
+  #ffffff 80%
+);
+$color-overlay-dark-50: rgba(0, 0, 0, 0.5);
+$color-overlay-dark-80: rgba(0, 0, 0, 0.8);
+$color-overlay-light-50: rgba(255, 255, 255, 0.5);
+$color-overlay-light-80: rgba(255, 255, 255, 0.8);
+$color-overlay-purple-80: rgba(189, 174, 205, 0.8);
+$color-overlay-coral-70: rgba(234, 138, 124, 0.7);
+$size-font-tiny: 0.75rem;
+$size-font-small: 0.875rem;
+$size-font-medium: 1rem;
+$size-font-large: 1.25rem;
+$size-font-xl: 1.5rem;
+$size-font-xxl: 2rem;
+$size-font-xxxl: 3rem;
+$size-padding-tiny: 0.25rem;
+$size-padding-small: 0.5rem;
+$size-padding-medium: 1rem;
+$color-overlay-coral-70: rgba(234, 138, 124, 0.7);
+$size-font-tiny: 0.75rem;
+$size-font-small: 0.875rem;
+$size-font-medium: 1rem;
+$size-font-large: 1.25rem;
+$size-font-xl: 1.5rem;
+$size-font-xxl: 2rem;
+$size-font-xxxl: 3rem;
+$size-padding-tiny: 0.25rem;
+$size-padding-small: 0.5rem;
+$size-padding-medium: 1rem;
+$color-overlay-coral-70: rgba(234, 138, 124, 0.7);
+$size-font-tiny: 0.75rem;
+$size-font-small: 0.875rem;
+$size-font-medium: 1rem;
+$size-font-large: 1.25rem;
+$size-font-xl: 1.5rem;
+$size-font-xxl: 2rem;
+$size-font-xxxl: 3rem;
+$size-padding-tiny: 0.25rem;
+$size-padding-small: 0.5rem;
+$size-padding-medium: 1rem;
+$size-padding-large: 1.5rem;
+$size-padding-xl: 2rem;
+$size-padding-xxl: 3rem;
+$time-transition-short: 0.2s;
+$time-transition-base: 0.4s;
+$time-transition-long: 0.6s;
+$time-transition-xl: 1s;
+$time-delay-short: 0.05s;
+$time-delay-base: 0.1s;
+$time-delay-long: 0.2s;
+$time-duration-short: 2s;
+$time-duration-base: 4s;
+$time-duration-long: 6s;
+$color-background-base: $color-base-white;
+$color-background-alt: $color-base-grey-100;
+$color-background-disabled: $color-base-grey-200;
+$color-background-inverse: $color-base-grey-900;
+$color-background-success: $color-base-green-600;
+$color-background-error: $color-base-red-600;
+$color-background-warning: $color-base-orange-800;
+$color-background-info: $color-base-purple-300;
+$color-background-link: $color-base-purple-300;
+$color-background-low-priority: $color-base-grey-600;
+$color-border-light: $color-base-grey-200;
+$color-border-base: $color-base-grey-400;
+$color-border-dark: $color-base-grey-600;
+$color-border-error: $color-base-red-600;
+$color-border-warning: $color-base-orange-800;
+$color-border-success: $color-base-green-600;
+$color-brand-primary-lighter: $color-base-purple-100;
+$color-brand-primary-light: $color-base-purple-300;
+$color-brand-primary-base: $color-base-purple-500;
+$color-brand-primary-dark: $color-base-purple-700;
+$color-brand-primary-darker: $color-base-purple-900;
+$color-brand-secondary-lighter: $color-base-coral-100;
+$color-brand-secondary-light: $color-base-coral-300;
+$color-brand-secondary-base: $color-base-coral-500;
+$color-brand-secondary-dark: $color-base-coral-700;
+$color-brand-secondary-darker: $color-base-coral-900;
+$color-brand-accent-base: $color-base-gold-500;
+$color-chart-categorical-04: $color-base-green-400;
+$color-chart-categorical-05: $color-base-orange-400;
+$color-chart-categorical-06: $color-base-red-400;
+$color-chart-sequential-lightest: $color-base-purple-100;
+$color-chart-sequential-lighter: $color-base-purple-300;
+$color-chart-sequential-darker: $color-base-purple-700;
+$color-chart-sequential-darkest: $color-base-purple-900;
+$color-chart-status-success: $color-base-green-600;
+$color-chart-status-warning: $color-base-orange-800;
+$color-chart-status-error: $color-base-red-600;
+$color-chart-status-neutral: $color-base-grey-400;
+$color-chart-border-grid: $color-base-grey-200;
+$color-chart-border-axis: $color-base-grey-600;
+$color-font-base: $color-base-grey-900;
+$color-font-secondary: $color-base-grey-800;
+$color-font-tertiary: $color-base-grey-600;
+$color-font-quaternary: $color-base-grey-400;
+$color-font-error: $color-base-red-600;
+$color-font-warning: $color-base-orange-800;
+$color-font-success: $color-base-green-600;
+$color-font-inverse-base: $color-base-white;
+$color-font-inverse-secondary: $color-base-grey-100;
+$color-font-inverse-tertiary: $color-base-grey-200;
+$color-font-inverse-quaternary: $color-base-grey-400;
+$color-font-inverse-error: $color-base-red-400;
+$color-font-inverse-warning: $color-base-orange-400;
+$color-font-inverse-success: $color-base-green-400;
+$color-font-inverse-disabled: $color-base-grey-200;
+$size-font-base: $size-font-medium;
+$size-padding-base: $size-padding-medium;
+$color-background-button-primary-base: $color-brand-primary-base;
+$color-background-button-primary-disabled: $color-brand-primary-light;
+$color-background-button-primary-active: $color-brand-primary-dark;
+$color-background-button-secondary-base: $color-brand-secondary-base;
+$color-background-button-secondary-disabled: $color-brand-secondary-light;
+$color-background-button-secondary-active: $color-brand-secondary-dark;
+$color-border-focus: $color-brand-primary-base;
+$color-border-button-secondary-base: $color-border-base;
+$color-border-button-secondary-active: $color-brand-secondary-dark;
+$color-border-button-secondary-disabled: $color-border-light;
+$color-chart-categorical-01: $color-brand-primary-base;
+$color-chart-categorical-02: $color-brand-secondary-base;
+$color-chart-categorical-03: $color-brand-accent-base;
+$color-chart-sequential-base: $color-brand-primary-base;
+$color-chart-highlight-primary: $color-brand-accent-base;
+$color-chart-highlight-secondary: $color-brand-primary-lighter;
+$color-font-link: $color-brand-primary-base;
+$color-font-active: $color-brand-secondary-base;
+$color-font-disabled: $color-font-secondary;
+$color-font-inverse-link: $color-brand-primary-light;
+$color-font-inverse-active: $color-brand-secondary-light;
+$color-font-button-primary: $color-font-inverse-base;
+$color-font-button-secondary: $color-font-link;

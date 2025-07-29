@@ -1,0 +1,12 @@
+{
+  "color": {
+    "overlay": {
+      "dark.50": { "value": "rgba(0, 0, 0, 0.5)", "type": "color" },
+      "dark.80": { "value": "rgba(0, 0, 0, 0.8)", "type": "color" },
+      "light.50": { "value": "rgba(255, 255, 255, 0.5)", "type": "color" },
+      "light.80": { "value": "rgba(255, 255, 255, 0.8)", "type": "color" },
+      "purple.80": { "value": "rgba(189, 174, 205, 0.8)", "type": "color" },
+      "coral.70": { "value": "rgba(234, 138, 124, 0.7)", "type": "color" }
+    }
+  }
+}

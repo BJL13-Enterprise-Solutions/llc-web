@@ -1,0 +1,30 @@
+{
+  "color": {
+    "gradient": {
+      "brand": {
+        "value": "linear-gradient(90deg, #BDAECD 0%, #EA8A7C 100%)",
+        "type": "color"
+      },
+      "brand.vertical": {
+        "value": "linear-gradient(180deg, #BDAECD 0%, #EA8A7C 100%)",
+        "type": "color"
+      },
+      "brand.rtl": {
+        "value": "linear-gradient(270deg, #BDAECD 0%, #EA8A7C 100%)",
+        "type": "color"
+      },
+      "brand.soft": {
+        "value": "linear-gradient(90deg, #BDAECD66 0%, #EA8A7C66 100%)",
+        "type": "color"
+      },
+      "brand.ramp": {
+        "value": "linear-gradient(45deg, #BDAECD, #CDA433, #EA8A7C)",
+        "type": "color"
+      },
+      "callout.primary": {
+        "value": "linear-gradient(135deg, #BDAECD 20%, #FFFFFF 80%)",
+        "type": "color"
+      }
+    }
+  }
+}
