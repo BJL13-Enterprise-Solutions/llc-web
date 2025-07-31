@@ -1,0 +1,36 @@
+{
+  "title": "BJL13 Enterprise Solutions",
+  "description": "Organizational and public benefit arm of BJL13 Enterprise Solutions. Breaking the chains of today to set tomorrow free.",
+  "baseURL": "https://bjl13.org/",
+  "pages": [{
+		"title": "",
+		"permalink": "https://bjl13.org/about/",
+		"summary": "<h2 id=\"-contentaboutmd\">// content/about.md</h2>\n<h2 id=\"layout-page\">title: &ldquo;About Us&rdquo;\nurl: &ldquo;/about&rdquo;\nlayout: &ldquo;page&rdquo;</h2>\n<p>BJL13 Enterprise Solutions is a public-benefit LLC committed to transforming systems of oppression into structures of liberation.</p>\n<h2 id=\"our-mission\">Our Mission</h2>\n<p>To build tools that liberate — not systems that punish. We envision a future where equity is engineered into every process.</p>\n<h2 id=\"core-values\">Core Values</h2>\n<ul>\n<li>Radical Welcome</li>\n<li>Non-Carceral Practice</li>\n<li>Equity Through Infrastructure</li>\n<li>Community Over Control</li>\n</ul>\n<hr>",
+		"date": "0001-01-01",
+		"tags": []
+	  },{
+		"title": "",
+		"permalink": "https://bjl13.org/access/accessibility/",
+		"summary": "<h2 id=\"-contentaccessibilitymd\">// content/accessibility.md</h2>\n<h2 id=\"layout-page\">title: &ldquo;Accessibility&rdquo;\nurl: &ldquo;/accessibility&rdquo;\nlayout: &ldquo;page&rdquo;</h2>\n<p>BJL13.org is committed to full WCAG 2.1 AA compliance.</p>\n<h3 id=\"standards-we-follow\">Standards We Follow</h3>\n<ul>\n<li>Text contrast ≥ 4.5:1</li>\n<li>Keyboard-only navigation</li>\n<li>Screen reader compatibility</li>\n</ul>\n<hr>",
+		"date": "0001-01-01",
+		"tags": []
+	  },{
+		"title": "",
+		"permalink": "https://bjl13.org/core-values/equity/",
+		"summary": "<h1 id=\"equity\">Equity</h1>\n<p>Equity is not an ideal, it’s a design goal.</p>",
+		"date": "0001-01-01",
+		"tags": []
+	  },{
+		"title": "",
+		"permalink": "https://bjl13.org/privacy/privacy/",
+		"summary": "<h2 id=\"-contentprivacymd\">// content/privacy.md</h2>\n<h2 id=\"layout-page\">title: &ldquo;Privacy Policy&rdquo;\nurl: &ldquo;/privacy&rdquo;\nlayout: &ldquo;page&rdquo;</h2>\n<p>We value your trust. BJL13.org collects only the minimum necessary data for functionality, accessibility, and user safety.</p>\n<h3 id=\"what-we-collect\">What We Collect</h3>\n<ul>\n<li>Minimal usage data (e.g., page views)</li>\n<li>Optional contact information (only when submitted)</li>\n</ul>\n<h3 id=\"how-we-use-it\">How We Use It</h3>\n<ul>\n<li>To improve the website experience</li>\n<li>To provide requested services</li>\n<li>To respond to messages or support requests</li>\n</ul>\n<p>Questions? Email us: <a href=\"mailto:info@bjl13.com\">info@bjl13.com</a></p>\n<hr>",
+		"date": "0001-01-01",
+		"tags": []
+	  },{
+		"title": "",
+		"permalink": "https://bjl13.org/work/history/",
+		"summary": "<h1 id=\"history\">History</h1>\n<p>Timeline and foundation of BES.</p>",
+		"date": "0001-01-01",
+		"tags": []
+	  }]
+}
