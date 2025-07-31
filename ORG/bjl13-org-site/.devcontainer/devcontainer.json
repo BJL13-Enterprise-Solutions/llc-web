@@ -1,0 +1,19 @@
+{
+  "name": "bjl13-org-site",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "postCreateCommand": "hugo version && git config --global init.defaultBranch main",
+  "forwardPorts": [1313],
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "mounts": [
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
+  ],
+  "remoteUser": "vscode",
+  "workspaceFolder": "/workspace"
+}
