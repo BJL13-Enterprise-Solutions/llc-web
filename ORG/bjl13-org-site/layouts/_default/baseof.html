@@ -1,19 +1,27 @@
-<!doctype html>
+// layouts/_default/baseof.html
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {{ with .Site.Params.description }}
-    <meta name="description" content="{{ . }}" />
-    {{ end }}
-    <link rel="stylesheet" href="/css/brand.css" />
-    <!-- Favicon and meta tags -->
-    <link rel="icon" href="/favicon.ico" />
-  </head>
-  <body>
-    {{ partial "nav.html" . }}
-    <main>{{ block "main" . }}{{ end }}</main>
-    {{ partial "footer.html" . }}
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }} | BJL13 Enterprise Solutions</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="gradient-bg">
+  <header>
+    <img src="/assets/logo.png" alt="BES Logo" class="logo">
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+      <a href="/contact">Contact</a>
+    </nav>
+  </header>
+
+  {{ block "main" . }}{{ end }}
+
+  <footer>
+    <p>© {{ now.Year }} BJL13 Enterprise Solutions, LLC | info@bjl13.com</p>
+  </footer>
+</body>
 </html>
+
+---
