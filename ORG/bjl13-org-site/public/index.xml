@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BJL13 Enterprise Solutions</title><link>https://bjl13.org/</link><description>Recent content on BJL13 Enterprise Solutions</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://bjl13.org/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://bjl13.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bjl13.org/about/</guid><description>&lt;h1 id="about-us">About Us&lt;/h1>
-&lt;p>Details about BES mission, team, and partners.&lt;/p></description></item><item><title/><link>https://bjl13.org/core-values/equity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bjl13.org/core-values/equity/</guid><description>&lt;h1 id="equity">Equity&lt;/h1>
-&lt;p>Equity is not an ideal, it’s a design goal.&lt;/p></description></item><item><title/><link>https://bjl13.org/work/history/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bjl13.org/work/history/</guid><description>&lt;h1 id="history">History&lt;/h1>
-&lt;p>Timeline and foundation of BES.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;h2 id=&#34;-contentaboutmd&#34;&gt;// content/about.md&lt;/h2&gt;&#xA;&lt;h2 id=&#34;layout-page&#34;&gt;title: &amp;ldquo;About Us&amp;rdquo;&#xA;url: &amp;ldquo;/about&amp;rdquo;&#xA;layout: &amp;ldquo;page&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;BJL13 Enterprise Solutions is a public-benefit LLC committed to transforming systems of oppression into structures of liberation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;To build tools that liberate — not systems that punish. We envision a future where equity is engineered into every process.&lt;/p&gt;&#xA;&lt;h2 id=&#34;core-values&#34;&gt;Core Values&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Radical Welcome&lt;/li&gt;&#xA;&lt;li&gt;Non-Carceral Practice&lt;/li&gt;&#xA;&lt;li&gt;Equity Through Infrastructure&lt;/li&gt;&#xA;&lt;li&gt;Community Over Control&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/access/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/access/accessibility/</guid>
+      <description>&lt;h2 id=&#34;-contentaccessibilitymd&#34;&gt;// content/accessibility.md&lt;/h2&gt;&#xA;&lt;h2 id=&#34;layout-page&#34;&gt;title: &amp;ldquo;Accessibility&amp;rdquo;&#xA;url: &amp;ldquo;/accessibility&amp;rdquo;&#xA;layout: &amp;ldquo;page&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;BJL13.org is committed to full WCAG 2.1 AA compliance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;standards-we-follow&#34;&gt;Standards We Follow&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Text contrast ≥ 4.5:1&lt;/li&gt;&#xA;&lt;li&gt;Keyboard-only navigation&lt;/li&gt;&#xA;&lt;li&gt;Screen reader compatibility&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/core-values/equity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/core-values/equity/</guid>
+      <description>&lt;h1 id=&#34;equity&#34;&gt;Equity&lt;/h1&gt;&#xA;&lt;p&gt;Equity is not an ideal, it’s a design goal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/privacy/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/privacy/privacy/</guid>
+      <description>&lt;h2 id=&#34;-contentprivacymd&#34;&gt;// content/privacy.md&lt;/h2&gt;&#xA;&lt;h2 id=&#34;layout-page&#34;&gt;title: &amp;ldquo;Privacy Policy&amp;rdquo;&#xA;url: &amp;ldquo;/privacy&amp;rdquo;&#xA;layout: &amp;ldquo;page&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;We value your trust. BJL13.org collects only the minimum necessary data for functionality, accessibility, and user safety.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-we-collect&#34;&gt;What We Collect&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Minimal usage data (e.g., page views)&lt;/li&gt;&#xA;&lt;li&gt;Optional contact information (only when submitted)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;how-we-use-it&#34;&gt;How We Use It&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To improve the website experience&lt;/li&gt;&#xA;&lt;li&gt;To provide requested services&lt;/li&gt;&#xA;&lt;li&gt;To respond to messages or support requests&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Questions? Email us: &lt;a href=&#34;mailto:info@bjl13.com&#34;&gt;info@bjl13.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/work/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/work/history/</guid>
+      <description>&lt;h1 id=&#34;history&#34;&gt;History&lt;/h1&gt;&#xA;&lt;p&gt;Timeline and foundation of BES.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

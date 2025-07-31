@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accesses on </title>
+    <link>/access/</link>
+    <description>Recent content in Accesses on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/access/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/access/accessibility/</guid>
+      <description>&lt;h2 id=&#34;-contentaccessibilitymd&#34;&gt;// content/accessibility.md&lt;/h2&gt;&#xA;&lt;h2 id=&#34;layout-page&#34;&gt;title: &amp;ldquo;Accessibility&amp;rdquo;&#xA;url: &amp;ldquo;/accessibility&amp;rdquo;&#xA;layout: &amp;ldquo;page&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;BJL13.org is committed to full WCAG 2.1 AA compliance.&lt;/p&gt;&#xA;&lt;h3 id=&#34;standards-we-follow&#34;&gt;Standards We Follow&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Text contrast ≥ 4.5:1&lt;/li&gt;&#xA;&lt;li&gt;Keyboard-only navigation&lt;/li&gt;&#xA;&lt;li&gt;Screen reader compatibility&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

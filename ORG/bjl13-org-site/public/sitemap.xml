@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://bjl13.org/</loc></url><url><loc>https://bjl13.org/about/</loc></url><url><loc>https://bjl13.org/core-values/</loc></url><url><loc>https://bjl13.org/core-values/equity/</loc></url><url><loc>https://bjl13.org/work/</loc></url><url><loc>https://bjl13.org/work/history/</loc></url><url><loc>https://bjl13.org/categories/</loc></url><url><loc>https://bjl13.org/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/about/</loc>
+  </url><url>
+    <loc>/access/accessibility/</loc>
+  </url><url>
+    <loc>/core-values/</loc>
+  </url><url>
+    <loc>/core-values/equity/</loc>
+  </url><url>
+    <loc>/privacy/privacy/</loc>
+  </url><url>
+    <loc>/work/</loc>
+  </url><url>
+    <loc>/work/history/</loc>
+  </url><url>
+    <loc>/access/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/privacy/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
