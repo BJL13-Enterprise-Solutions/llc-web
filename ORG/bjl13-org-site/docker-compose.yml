@@ -6,4 +6,8 @@ services:
     ports:
       - "80:80"
       - "443:443"
+<<<<<<< HEAD
     restart: unless-stopped
+=======
+    restart: unless-stopped
+>>>>>>> ca161633cecb2b3607c0926987b7df67d5809ee7
